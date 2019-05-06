@@ -1,5 +1,5 @@
 {
-    "name": "austinheap/laravel-database-encryption",
+    "name": "ricardosierra/laravel-database-encryption",
     "description": "A package for automatically encrypting and decrypting Eloquent attributes in Laravel 5.5+, based on configuration settings.",
     "keywords": [
         "laravel",
@@ -35,6 +35,12 @@
     "homepage": "https://github.com/austinheap/laravel-database-encryption",
     "license": "MIT",
     "authors": [
+        {
+            "name": "Ricardo Sierra",
+            "email": "ricardo@sierratecnologia.com.br",
+            "homepage": "https://github.com/ricardosierra",
+            "role": "Developer"
+        },
         {
             "name": "Austin Heap",
             "email": "me@austinheap.com",
